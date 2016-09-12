@@ -23,9 +23,9 @@ $navbar-default-bg: #404040;
 }
 
 .jumbotron {
-  background-image: asset-url('profileimage');
+  background-image: asset-url('homepage.jpg');
   background-size: cover;
-  height: 550px;
+  height: 700px;
 }
 
 .jumbotron h1 {
@@ -34,6 +34,8 @@ $navbar-default-bg: #404040;
   margin-bottom: 30px;
   letter-spacing: -1;
   font-weight: bold;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  
 }
 
 .btn-xlarge {
