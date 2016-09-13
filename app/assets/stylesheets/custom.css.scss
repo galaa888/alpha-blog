@@ -64,6 +64,20 @@ footer ul {
   list-style: none;
 }
 
+.article-actions {
+  border-top: 1px solid #eaeaea;
+  padding-top: 5px;
+}
+
+.article-title {
+  font-family: "Calibri", Charcoal, sans-serif;
+  font-size: 50px;
+  font-weight: bold;
+}
+.description {
+  margin-top: 0;
+}
+
 footer ul li {
   float: left;
   margin-left: 15px;
